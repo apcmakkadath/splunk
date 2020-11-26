@@ -1,0 +1,5 @@
+##### Written by Aravind Chaliyadath - apcmakkadath@gmail.com #####
+##### Custom script to install and configure splunk forwarder #####
+##### Hardcoded 1 deployment server, 2 indexer server #####
+
+This script is limited to configure 1 deployment server & 2 indexer servers
